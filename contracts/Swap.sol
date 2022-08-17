@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
-contract TokenSwap {
+contract Swap {
     IERC20 token1;
     IERC20 token2;
 
